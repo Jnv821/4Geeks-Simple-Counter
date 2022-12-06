@@ -10,3 +10,20 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.clockNumber{
+    margin: 15px 5px;
+    padding: 5px 15px;
+    background-color: rgb(20,20,20);
+    font-size: 72px;
+    border-radius: 5px;
+    border-left: 3px solid rgb(50,50,50);
+    border-right: 3px solid rgb(50,50,50);;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+}
+
+.smaller {
+    font-size: 48px;
+    padding-bottom: 5px;
+}
